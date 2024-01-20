@@ -1,23 +1,51 @@
 ---
-title: Bloom Box
-publishDate: 2019-12-01 00:00:00
-img: /assets/stock-2.jpg
-img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
+title: Building Réhabilitation with BIM methods
+publishDate: 2023-03-02 00:00:00
+img: /assets/vue de face _000.png
+img_alt: vue de face du projet 
 description: |
-  We paired with a cutting-edge music API and a team of horticulturalists
-  to build AI-generated playlists that maximize houseplant health.
+  For a rehabilitation project, I had to redraw, with a team, an entire building, part of which would be demolished, and an extension would be created using REVIT.
 tags:
+  - Design
   - Dev
-  - Branding
-  - Backend
+  - User Testing
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+## Building réhabilitation
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+> The project.
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+The project involved rehabilitating a building in Gradignan. Specifically, the site was to be transformed into a co-living space for a school. A portion of the existing building would be demolished to make way for an extension containing an auditorium. As project managers, our initial task was to create the BIM convention, following the BIM charter provided by the client. This convention included various stakeholders, the BIM level to be used with the LOAD level, as well as deadlines, deliverables, etc. Among the deliverables were a 4D 5D schedule, as well as numerous sections, plan views, elevations, realistic renderings, a one-minute video to present the project, and an innovation to help the client better understand the future work..
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+> How we do ?
+
+We divided the work among ourselves, with each person modeling a part of the building. We took care to use subprojects (such as "structure") and worked with BIM Level 2, meaning we didn't have a single model but federated models, facilitating collaboration among us. Once the existing conditions were completed, we were able to phase the project in REVIT before uploading it to Navisworks, where we established our 4D and 5D schedule. Simultaneously, we prepared 2D plans (sections, elevations, plan views) in REVIT, using Twinmotion for 3D renderings and images that we would use during presentations to the client. Finally, for the innovation aspect, we decided to create a marker-based virtual reality application. In this application, you could view different images/plans of the project and also visualize the building in augmented reality, removing certain parts to see the interior and changing the materials of certain elements to assist in the final architectural decision-making. This application was interesting because, for example, it would have been possible to place a QR code, enabling installation, on a bench or table near the existing building, allowing people to directly visualize what the building would look like. One could even envision a polling system allowing people to choose different finishes based on what they saw in the app.
+
+> Skills i learned
+
+During this project, I learned to collaborate and manage collaboration with my various colleagues. I also enhanced my skills in the different software applications, namely REVIT, Twinmotion, and Navisworks. Lastly, I had to find an innovative solution to a posed problem and created an augmented reality application from scratch using Unity, allowing me to develop foundational knowledge in that area.
+
+---
+<br />
+
+<BaseLayout>
+	<!-- Ajout de la première image -->
+	<div style="text-align: center;">
+		<img src="/assets/Image4.png" alt="Description de la première image" style="width: 100%; height: auto;" />
+		<p>vue extérieure du bâtiment</p>
+  <br />
+  <br />
+  <!-- Ajout de la deuxième image -->
+	<div style="text-align: center;">
+    <img src="/assets/vue de face.png" alt="Description de la deuxième image" style="width: 100%; height: auto;" />
+    <p>vue de face ligne cachée<p>
+  </div>
+  <br />
+  <!-- Ajout de la troisième image -->
+	<div style="text-align: center;">
+    <img src="/assets/ligne cachée.png" alt="rendu 3D avec application d'un style" style="width: 100%; height: auto;" />
+    <p>rendu 3D avec application d'un style<p>
+  </div>
+  <br />
+</BaseLayout>
