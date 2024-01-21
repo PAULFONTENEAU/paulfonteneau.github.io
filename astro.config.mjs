@@ -5,7 +5,7 @@ import tailwind from "@astrojs/tailwind";
 
 const SERVER_PORT = 3000;
 const LOCALHOST_URL = `http://localhost:${SERVER_PORT}`;
-const LIVE_URL = "https://PAULFONTENEAU.github.io";
+const LIVE_URL = "https://paulfonteneau.github.io";
 const SCRIPT = process.env.npm_lifecycle_script || "";
 const isBuild = SCRIPT.includes("astro build");
 let BASE_URL = LOCALHOST_URL;
