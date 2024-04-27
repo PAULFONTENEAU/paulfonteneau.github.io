@@ -1,7 +1,7 @@
 ---
 title: Building Réhabilitation with BIM methods
 publishDate: 2023-03-02 00:00:00
-img: /assets/vue de face _000.png
+img: paulfonteneau.github.io/assets/vue de face _000.png
 img_alt: vue de face du projet 
 description: |
   For a rehabilitation project, I had to redraw, with a team, an entire building, part of which would be demolished, and an extension would be created using REVIT.
@@ -32,19 +32,19 @@ During this project, I learned to collaborate and manage collaboration with my v
 <BaseLayout>
 	<!-- Ajout de la première image -->
 	<div style="text-align: center;">
-		<img src="/assets/Image4.png" alt="Description de la première image" style="width: 100%; height: auto;" />
+		<img src="paulfonteneau.github.io/assets/Image4.png" alt="Description de la première image" style="width: 100%; height: auto;" />
 		<p>vue extérieure du bâtiment</p>
   <br />
   <br />
   <!-- Ajout de la deuxième image -->
 	<div style="text-align: center;">
-    <img src="/assets/vue de face.png" alt="Description de la deuxième image" style="width: 100%; height: auto;" />
+    <img src="paulfonteneau.github.io/assets/vue de face.png" alt="Description de la deuxième image" style="width: 100%; height: auto;" />
     <p>vue de face ligne cachée<p>
   </div>
   <br />
   <!-- Ajout de la troisième image -->
 	<div style="text-align: center;">
-    <img src="/assets/ligne cachée.png" alt="rendu 3D avec application d'un style" style="width: 100%; height: auto;" />
+    <img src="paulfonteneau.github.io/assets/ligne cachée.png" alt="rendu 3D avec application d'un style" style="width: 100%; height: auto;" />
     <p>rendu 3D avec application d'un style<p>
   </div>
   <br />
